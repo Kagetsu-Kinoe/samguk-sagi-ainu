@@ -140,32 +140,3 @@ Copyright © 2026 Kagetsu Kinoe（木上欠月）
 
 今後とも加筆修正する。古代の名もなき人々の声を、どうか聞いていただきたい。はるか古代の炊爨の煙が、見えてくるかもしれない。
 
-
-
-
-
-## 🕊️ おわりに / Concluding Remarks
-
-**【日本語】**
-私は、現在それぞれの歴史や文化の中で平和に暮らしている人々の営みを、深く尊重します。
-
-かつて言葉や大地の記憶を共有していた東アジアの庶民が、国境や政治的イデオロギーの壁を越えて、いつの日か温かく手を結び合える時が来ることを願っています。古代の地名に刻まれた自然への畏敬の念と生活の記憶を紐解く作業は、私たちが未来において再び深く相互理解するための「共通の記憶のアルバム」を作る挑戦です。
-
-もしこの普遍的な連帯のビジョンと、膨大な地名解釈の学術的価値に共鳴し、個人の時間と費用を投じて進めるこの研究を支えてくださる方がいらっしゃいましたら、温かいご支援（パトロネージュ）をいただけますと幸いです。
-
-***
-
-**【English】**
-I hold the deepest respect for the lives and cultures of people who currently find peace and identity within their respective historical frameworks.
-
-My ultimate hope is that the common people of East Asia—who once shared the same linguistic roots and ancestral memories of the land—will one day reach across borders and political ideologies to hold hands in mutual understanding. By decoding the reverence for nature and the lived experiences embedded in ancient place names, this project seeks to create a "shared album of memories" that serves as a bridge for our collective future.
-
-If you resonate with this vision of universal solidarity and recognize the scholarly value of this extensive geographical analysis, your generous support and patronage to sustain this self-funded research would be profoundly appreciated.
-
-<br>
-
-<div align="center">
-  <a href="https://buymeacoffee.com/kagetsu_kinoe">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee">
-  </a>
-</div>

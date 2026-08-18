@@ -165,7 +165,7 @@ If you resonate with this vision of universal solidarity and recognize the schol
 <br>
 
 <div align="center">
-  <a href="あなたのページのURL">
-    <img src="https://shields.io" alt="Buy Me a Coffee">
+  <a href="https://buymeacoffee.com/kagetsu_kinoe">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee">
   </a>
 </div>

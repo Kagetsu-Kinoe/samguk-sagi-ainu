@@ -106,19 +106,19 @@
 
 | 州 | ファイル | 件数 | 本文 |
 | --- | --- | ---: | --- |
-| 良州 | [01-良州.md](docs/01-良州.md) | 47 | [jomon2_bnum59.html](../jomon2_bnum59.html) |
-| 康州 | [02-康州.md](docs/02-康州.md) | 38 | [jomon2_bnum60.html](../jomon2_bnum60.html) |
-| 武州 | [03-武州.md](docs/03-武州.md) | 59 | [jomon2_bnum61.html](../jomon2_bnum61.html) |
-| 全州 | [04-全州.md](docs/04-全州.md) | 43 | [jomon2_bnum62.html](../jomon2_bnum62.html) |
-| 熊州 | [05-熊州.md](docs/05-熊州.md) | 44 | [jomon2_bnum63.html](../jomon2_bnum63.html) |
-| 尚州 | [06-尚州.md](docs/06-尚州.md) | 41 | [jomon2_bnum64.html](../jomon2_bnum64.html) |
-| 漢州 | [07-漢州.md](docs/07-漢州.md) | 79 | [jomon2_bnum65.html](../jomon2_bnum65.html) |
-| 溟州 | [08-溟州.md](docs/08-溟州.md) | 35 | [jomon2_bnum66.html](../jomon2_bnum66.html) |
-| 朔州 | [09-朔州.md](docs/09-朔州.md) | 38 | [jomon2_bnum67.html](../jomon2_bnum67.html) |
+| 良州 | [01-良州.md](docs/01-良州.md) | 47 | [jomon2_bnum59.html](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum59.html) |
+| 康州 | [02-康州.md](docs/02-康州.md) | 38 | [jomon2_bnum60.html](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum60.html) |
+| 武州 | [03-武州.md](docs/03-武州.md) | 59 | [jomon2_bnum61.html](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum61.html) |
+| 全州 | [04-全州.md](docs/04-全州.md) | 43 | [jomon2_bnum62.html](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum62.html) |
+| 熊州 | [05-熊州.md](docs/05-熊州.md) | 44 | [jomon2_bnum63.html](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum63.html) |
+| 尚州 | [06-尚州.md](docs/06-尚州.md) | 41 | [jomon2_bnum64.html](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum64.html) |
+| 漢州 | [07-漢州.md](docs/07-漢州.md) | 79 | [jomon2_bnum65.html](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum65.html) |
+| 溟州 | [08-溟州.md](docs/08-溟州.md) | 35 | [jomon2_bnum66.html](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum66.html) |
+| 朔州 | [09-朔州.md](docs/09-朔州.md) | 38 | [jomon2_bnum67.html](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum67.html) |
 
 全件CSV: [samguk-sagi-ainu.csv](samguk-sagi-ainu.csv)　／　合計 **424** 件。
 
-序と方法の本文は、[第五百三十五回](../jomon2_bnum59.html) に記しています。
+序と方法の本文は、[第五百三十五回](https://bandonokumo.net/east-asia-toponym-database/samguk-sagi/jomon2_bnum59.html) に記しています。
 
 ---
 

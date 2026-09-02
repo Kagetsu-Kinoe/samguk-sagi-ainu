@@ -198,7 +198,7 @@ or「チゥ(ciw)・エ(e)・エン(en)」＝「水流、水脈が・そこで・
 | 揚州 | 九江郡 | [06-九江郡.md](docs/06-九江郡.md) | 16 | [jomon2_bnum9.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum9.html) |
 | 揚州 | 丹陽郡 | [07-丹陽郡.md](docs/07-丹陽郡.md) | 15 | [jomon2_bnum9.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum9.html) |
 | 揚州 | 廬江郡 | [08-廬江郡.md](docs/08-廬江郡.md) | 16 | [jomon2_bnum9.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum9.html) |
-| 揚州 | 会稽郡 | [09-会稽郡.md](docs/09-会稽郡.md) | 25 | [jomon2_bnum10.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum10.html) |
+| 揚州 | 会稽郡 | [09-会稽郡.md](docs/09-会稽郡.md) | 29 | [jomon2_bnum10.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum10.html) |
 | 徐州 | 豫章郡 | [10-豫章郡.md](docs/10-豫章郡.md) | 21 | [jomon2_bnum10.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum10.html) |
 | 交州 | 南海郡 | [11-南海郡.md](docs/11-南海郡.md) | 7 | [jomon2_bnum10.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum10.html) |
 | 交州 | 蒼梧郡 | [12-蒼梧郡.md](docs/12-蒼梧郡.md) | 10 | [jomon2_bnum10.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum10.html) |
@@ -288,7 +288,7 @@ or「チゥ(ciw)・エ(e)・エン(en)」＝「水流、水脈が・そこで・
 | 涼州 | 酒泉郡 | [96-酒泉郡.md](docs/96-酒泉郡.md) | 5 | [jomon2_bnum17.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum17.html) |
 | 涼州 | 敦煌郡 | [97-敦煌郡.md](docs/97-敦煌郡.md) | 5 | [jomon2_bnum17.html](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum17.html) |
 
-全件CSV: [han-dynasty-ainu.csv](han-dynasty-ainu.csv)　／　合計 **1154** 件。
+全件CSV: [han-dynasty-ainu.csv](han-dynasty-ainu.csv)　／　合計 **1158** 件。
 
 序と方法の本文は、[第九十三回](https://bandonokumo.net/east-asia-toponym-database/han-dynasty/jomon2_bnum9.html) に記しています。
 
